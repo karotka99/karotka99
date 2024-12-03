@@ -2,14 +2,13 @@
 
 Here are some info about me:
 
- 📚 Student of Mathematic at the Silesian University of Technology in Gliwice 
+ 📚 Graduated master's degree in Mathematic at the Silesian University of Technology in Gliwice 
  
- 💻 Student of Computer Science - Big Data Analytics at the University of Economics in Katowice
+ 💻 Graduated master's degree in Computer Science - Big Data Analytics at the University of Economics in Katowice
  
- 🎓 I finished bachelor's degree in Mathematics with specialisation Computer Mathematics at the Silesian University of Technology in Gliwice
+ 🎓 Graduated bachelor's degree in Mathematics with specialisation Computer Mathematics at the Silesian University of Technology in Gliwice
  
  ⚡ Skills & Activities: Python, Excel, SQL, Statistica, Mathematica/Wolfram, SAS - ETL processes
-
 
 
 
